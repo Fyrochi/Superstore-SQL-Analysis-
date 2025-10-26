@@ -211,7 +211,7 @@ ORDER BY Category, rank_in_category;
 |  | HP Designjet T520 Inkjet Large Format Printer - 24" Color | 18,374.90 | 4 |
 |  | Lexmark MX611dhe Monochrome Laser Printer | 16,829.90 | 5 |
 
-### 🔹 Summary of Insights
+### Summary
 
 - Furniture: Task chairs and bookcases are reliable sellers, consistent but not very high-margin.
 - Office Supplies: Binding and document machines lead sales, likely from business orders.
